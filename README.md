@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shabnam.shabanpour@gmail.com**
 
-- Master: 
+👨‍🏫 Master: https://www.instagram.com/parsa_ghorbanian_web?igsh=MXQydDAxMW05ZjgyYg%3D%3D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

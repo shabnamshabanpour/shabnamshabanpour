@@ -2,9 +2,6 @@
 <h1 align="center">Hi there, I'm Shabnam 👋</h1>
 <h3 align="center">Frontend Developer (Beginner / Intermediate)</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/6zKjB7G.gif" width="250"/>
-</p>
 
 ---
 

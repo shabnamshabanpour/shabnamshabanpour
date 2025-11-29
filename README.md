@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabnamshabanpour" alt="shabnamshabanpour" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shabnamshabanpour](https://github.com/shabnamshabanpour)
+- 👩‍🎓 I’m currently learning html,css,javaScript at Parnian institution
 
-- 💬 Ask me about **Javascript,Bootstrp,css3,html5**
+- 👨‍💻 All of my projects are available at [https://github.com/shabnamshabanpour](https://github.com/shabnamshabanpour)
 
 - 📫 How to reach me **shabnam.shabanpour@gmail.com**
 
-👨‍🏫 Master: parsa_ghorbanian
+- 👨‍🏫 Master: parsa_ghorbanian
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

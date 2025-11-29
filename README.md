@@ -1,6 +1,7 @@
-<!-- Header -->
-<h1 align="center">Hi there, I'm Shabnam 👋</h1>
-<h3 align="center">Frontend Developer (Beginner / Intermediate)</h3>
+<!-- Header --># Hi there, I'm Shabnam 👋
+# Hi there, I'm Shabnam 👋
+
+### 🌱 Frontend Developer (Beginner / Intermediate)
 
 
 ---

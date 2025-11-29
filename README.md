@@ -2,8 +2,8 @@
 
 ### 🌱 Frontend Developer (Beginner / Intermediate)
 
-I'm currently learning **HTML, CSS, and JavaScript** and building small frontend projects to improve my skills.  
-I enjoy creating clean and simple UI designs, learning modern web technologies, and practicing real-world projects.
+I'm currently learning **HTML, CSS, and JavaScript** at Parnian institute and building small frontend projects to improve my skills.  
+I enjoy learning modern web technologies, and practicing real-world projects.
 
 ---
 
@@ -29,23 +29,6 @@ I enjoy creating clean and simple UI designs, learning modern web technologies, 
 - JavaScript DOM manipulation  
 - Building small real projects (landing pages, components, etc.)  
 - React (soon)
-
----
-
-## 📁 Featured Projects (More Coming Soon)
-
-### 🔹 Simple Landing Page
-A clean landing page made with HTML + CSS  
-👉 *[Link to repository]*
-
-### 🔹 FAQ Accordion Component  
-Styled FAQ section using HTML, CSS and a bit of JS  
-👉 *[Link to repository]*
-
-### 🔹 Personal Portfolio (In progress)
-My own portfolio website (practice project)
-
-> *Note:* These are beginner-friendly projects, and I’m improving them as I learn more.
 
 ---
 

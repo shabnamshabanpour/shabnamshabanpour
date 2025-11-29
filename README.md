@@ -1,51 +1,48 @@
-<!-- Header --># Hi there, I'm Shabnam 👋
 # Hi there, I'm Shabnam 👋
 
 ### 🌱 Frontend Developer (Beginner / Intermediate)
 
-
----
-
-## 🌱 About Me
 I'm currently learning **HTML, CSS, and JavaScript** at Parnian institute and building small frontend projects to improve my skills.  
 I enjoy learning modern web technologies, and practicing real-world projects.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Current Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+**Languages:**  
+- HTML  
+- CSS  
+- JavaScript (Basic)
+
+**Tools & Technologies:**  
+- Git & GitHub  
+- VS Code  
+- Responsive Design  
+- Flexbox / Grid  
+- Chrome DevTools
 
 ---
 
-## 📘 What I'm Learning Now
+## 📌 What I'm Learning Now
 
-- Advanced CSS (Flexbox / Grid / Animations)  
-- JavaScript DOM   
+- Modern CSS (animations, transitions, better layouts)  
+- JavaScript DOM manipulation  
+- Building small real projects (landing pages, components, etc.)  
 - React (soon)
 
 ---
 
-## 🎯 Goals
+## ✨ Goals
 
-- Build more real-world frontend projects  
-- Improve JavaScript fundamentals  
-- Learn React and create dynamic applications  
-- Publish a complete portfolio site  
-
----
-
-## 📬 Contact Me
-
-📧 **Email:** shabnam.shabanpour@gmail.com  
+- Become confident with HTML/CSS  
+- Learn JavaScript deeply  
+- Start building real applications with React  
+- Create a clean and professional portfolio
 
 ---
 
-<p align="center">
-  ⭐ If you like my work or want to support my learning journey, feel free to star my repositories!
-</p>
+## 📫 Contact Me
 
+**Email:** shabnam.shabanpour@gmail.com  
 
-
+If you’re a developer viewing my profile, I’d love any feedback or suggestions 💛
